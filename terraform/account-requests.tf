@@ -4,7 +4,7 @@ module "account_request_04" {
   control_tower_parameters = {
     AccountEmail              = "blakhiy+aftko4@amazon.com"
     AccountName               = "bharat aftko4"
-    ManagedOrganizationalUnit = "aft-creations" 
+    ManagedOrganizationalUnit = "aft-creations (ou-j65s-yxmsnbe8)" 
     SSOUserEmail              = "blakhiy@amazon.com"
     SSOUserFirstName          = "Bharat"
     SSOUserLastName           = "Lakhiyani"
@@ -41,7 +41,7 @@ module "account_request_02" {
   control_tower_parameters = {
     AccountEmail              = "blakhiy+aftko2@amazon.com"
     AccountName               = "bharat aftko2"
-    ManagedOrganizationalUnit = "aft-creations" 
+    ManagedOrganizationalUnit = "aft-creations (ou-j65s-yxmsnbe8)" 
     SSOUserEmail              = "blakhiy@amazon.com"
     SSOUserFirstName          = "Bharat"
     SSOUserLastName           = "Lakhiyani"
